@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../ZAIO-TESLA"
+		},
+		{
+			"path": "../ZAIO-NETFLIX"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ZAIO-YOUTUBE"
+	}
+}
